@@ -47,5 +47,6 @@ Download the CSV file from the repository to use this dataset and load it into y
 
 
 ## Contact
+
 or any questions or issues regarding the dataset, please contact:
 Rasha Obeidat:rmobeidat@just.edu.jo (or any of the authors)
