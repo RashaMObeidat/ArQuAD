@@ -6,17 +6,6 @@ ArQuAD is an expert-annotated Arabic Machine Reading Comprehension (MRC) dataset
 
 ## Citation
 
-If you use ArQuAD in your research, please cite the following paper:
-
-```bibtex
-@article{obeidat2024arquad,
-  title={ArQuAD: An Expert-Annotated Arabic Machine Reading Comprehension Dataset},
-  author={Obeidat, Rasha and Al-Harbi, Marwa and Al-Ayyoub, Mahmoud and Alawneh, Luay},
-  journal={Cognitive Computation},
-  pages={1--20},
-  year={2024},
-  publisher={Springer}
-}
 
 ## Dataset Description
 
@@ -50,3 +39,5 @@ Download the CSV file from the repository to use this dataset and load it into y
 
 or any questions or issues regarding the dataset, please contact:
 Rasha Obeidat:rmobeidat@just.edu.jo (or any of the authors)
+
+
