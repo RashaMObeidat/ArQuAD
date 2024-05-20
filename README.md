@@ -7,6 +7,17 @@ ArQuAD is an expert-annotated Arabic Machine Reading Comprehension (MRC) dataset
 ## Citation
 
 
+If you use ArQuAD in your research, please cite the following paper:
+
+bibtex
+@article{obeidat2024arquad,
+  title={ArQuAD: An Expert-Annotated Arabic Machine Reading Comprehension Dataset},
+  author={Obeidat, Rasha and Al-Harbi, Marwa and Al-Ayyoub, Mahmoud and Alawneh, Luay},
+  journal={Cognitive Computation},
+  pages={1--20},
+  year={2024},
+  publisher={Springer}
+}
 ## Dataset Description
 
 ArQuAD consists of 16,020 question-answer pairs created by Arabic language specialists with BA and MA degrees. The passages are sourced from 1335 of the most viewed Arabic Wikipedia articles, covering a wide range of topics including sports, politics, technology, religion, and more.
